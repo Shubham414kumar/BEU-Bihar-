@@ -1,1 +1,7 @@
 {"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-04T16:38:21.817Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-04T16:56:18.996Z"}
+{"level":"info","message":"GET /","timestamp":"2025-12-04T16:56:32.679Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2025-12-04T16:56:32.946Z"}
+{"level":"info","message":"GET /","timestamp":"2025-12-04T16:56:39.017Z"}
+{"level":"info","message":"GET /api/result-links","timestamp":"2025-12-04T16:57:30.045Z"}
+{"level":"info","message":"GET /api/result-links","timestamp":"2025-12-04T16:57:58.829Z"}
